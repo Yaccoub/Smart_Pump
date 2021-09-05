@@ -1,6 +1,8 @@
 ## Smart Pressure Driven Microfluidic Pump
 DIY Low Cost Smart Pressure Driven Microfluidic Pump
 
+![alt-text](https://github.com/Yaccoub/smart_pump/blob/main/documentation/pictures/smart_pump.gif)
+
 Smart Pump : Controlling flow rate has always been a critical process for most microfluidic applications and research
 experiments. In this project, we conceptualized and developed a pressure driven pump to deliver flow and provide
 the best control of the fluids at a microfluidic scale.
