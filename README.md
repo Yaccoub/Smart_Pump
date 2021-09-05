@@ -9,7 +9,7 @@ the best control of the fluids at a microfluidic scale.
 
 For a full description of the project, please read the project documentation included in the repository:
 
-https://gitlab.ldv.ei.tum.de/ami2020/group16/-/tree/master/docs
+https://github.com/Yaccoub/smart_pump/blob/main/documentation/Smart_Pump_Lab_Work_documentation.pdf
 
 To submit bug reports and feature suggestions, or track changes:
 
