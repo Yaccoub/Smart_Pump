@@ -45,4 +45,4 @@ git clone https://github.com/Yaccoub/smart_pump.git
 This project requires the following modules:
 
  * Matlab Release 2020a     (https://de.mathworks.com/products/matlab.html)
- * Arduino IDE 1.8.15 (https://www.arduino.cc/en/software)
+ * Arduino IDE 1.8.15       (https://www.arduino.cc/en/software)
