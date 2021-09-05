@@ -13,7 +13,7 @@ https://github.com/Yaccoub/smart_pump/blob/main/documentation/Smart_Pump_Lab_Wor
 
 To submit bug reports and feature suggestions, or track changes:
 
-https://gitlab.ldv.ei.tum.de/ami2020/group16/-/issues
+https://github.com/Yaccoub/smart_pump/issues
 
 Getting Started
 
