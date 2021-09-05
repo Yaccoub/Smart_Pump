@@ -39,11 +39,10 @@ git clone https://github.com/Yaccoub/smart_pump.git
     
     ```documentation        --> documentation of the project```
     
-    
+ Prerequisites
+-------------
 
+This project requires the following modules:
 
-* Each folder contains:
-
-    ```all_file.txt        --> list of all images```
-
-    ```bg_img.txt          --> list of background images```
+ * Matlab Release 2020a     (https://de.mathworks.com/products/matlab.html)
+ * Arduino IDE 1.8.15 (https://www.arduino.cc/en/software)
