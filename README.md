@@ -33,11 +33,11 @@ git clone https://github.com/Yaccoub/smart_pump.git
 
 * The folder naming in this project follows the pattern:
 
-    ```hardware        --> list of all images```
+    ```hardware        --> housing and pcb data```
 
-    ```software        --> list of background images```
+    ```software        --> simulations, microcontroller and GUI```
     
-    ```documentation        --> list of background images```
+    ```documentation        --> documentation of the project```
     
     
 
