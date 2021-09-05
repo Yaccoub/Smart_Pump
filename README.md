@@ -33,7 +33,13 @@ git clone https://github.com/Yaccoub/smart_pump.git
 
 * The folder naming in this project follows the pattern:
 
-    ```<Portal.no.type_Sequence.no_Camera.no>```
+    ```hardware        --> list of all images```
+
+    ```software        --> list of background images```
+    
+    ```documentation        --> list of background images```
+    
+    
 
 
 * Each folder contains:
