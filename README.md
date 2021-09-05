@@ -23,12 +23,21 @@ pump system can largely compete with industrial alternatives at a fraction of th
 droplet experiments (see documentation), our device system can be a viable alternative to costly industrial pressure driven
 pumps for most of the research application
 
-Prerequisites
-This project requires the following software:
+These instructions will guide through the project for development and testing purposes.
 
-Python stable release 3.8.0 (https://www.python.org/downloads/release/python-380/)
-TensorFlow stable release 2.3.0 (https://www.tensorflow.org/install)
-Configuration
-If the project is directly cloned from Gitlab, the database paths are already contained in the ./data directory and implemented in the code. In case of any changes, you can find the requested database in the according sub-directory ./data/...
+Clone this repo to your local machine using:
 
-All the required packages and modules that don’t come as part of the python standard library are to be found in the requirements.txt file.
+```
+git clone https://github.com/Yaccoub/smart_pump.git
+```
+
+* The folder naming in this project follows the pattern:
+
+    ```<Portal.no.type_Sequence.no_Camera.no>```
+
+
+* Each folder contains:
+
+    ```all_file.txt        --> list of all images```
+
+    ```bg_img.txt          --> list of background images```
