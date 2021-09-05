@@ -7,13 +7,14 @@ Smart Pump : Controlling flow rate has always been a critical process for most m
 experiments. In this project, we conceptualized and developed a pressure driven pump to deliver flow and provide
 the best control of the fluids at a microfluidic scale.
 
-For a full description of the project, please read the project documentation included in the repository:
+ * For a full description of the project, please read the project documentation included
+ in the repository:
 
-https://github.com/Yaccoub/smart_pump/blob/main/documentation/Smart_Pump_Lab_Work_documentation.pdf
+   ```https://github.com/Yaccoub/smart_pump/blob/main/documentation/Smart_Pump_Lab_Work_documentation.pdf```
 
-To submit bug reports and feature suggestions, or track changes:
+ * To submit bug reports and feature suggestions, or track changes:
 
-https://github.com/Yaccoub/smart_pump/issues
+     ```https://github.com/Yaccoub/smart_pump/issues```
 
 # Getting Started
 
