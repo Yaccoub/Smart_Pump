@@ -46,3 +46,18 @@ This project requires the following modules:
 
  * Matlab Release 2020a     (https://de.mathworks.com/products/matlab.html)
  * Arduino IDE 1.8.15       (https://www.arduino.cc/en/software)
+
+## Versioning
+
+We use [Git](https://github.com/) for versioning. For the versions available, see the [tags on this repository](https://github.com/Yaccoub/smart_pump).
+
+## Authors
+
+* **Alaeddine Yacoub** - *alaeddine.yacoub@tum.de* -
+* **Daniel Kühbacher** - *daniel.kühbacher@tum.de* -
+* **Oumaima Zneidi** - *oumaima.zneidi@tum.de* -
+
+## License
+
+This project is licensed under the TranslaTUM - Central Institute for Translational Cancer Research
+
