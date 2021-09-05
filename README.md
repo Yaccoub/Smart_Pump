@@ -54,7 +54,7 @@ We use [Git](https://github.com/) for versioning. For the versions available, se
 ## Authors
 
 * **Alaeddine Yacoub** - *alaeddine.yacoub@tum.de* -
-* **Daniel Kühbacher** - *daniel.kühbacher@tum.de* -
+* **Daniel Kühbacher** - *daniel.kuehbacher@tum.de* -
 * **Oumaima Zneidi** - *oumaima.zneidi@tum.de* -
 
 ## License
