@@ -15,7 +15,7 @@ To submit bug reports and feature suggestions, or track changes:
 
 https://github.com/Yaccoub/smart_pump/issues
 
-Getting Started
+# Getting Started
 
 With the achieved high-precision control of the liquid flow and the subseconds response time, our
 pump system can largely compete with industrial alternatives at a fraction of the cost. As shown in the
