@@ -1,5 +1,6 @@
 ## Smart Pressure Driven Microfluidic Pump
-DIY Low Cost Smart Pressure Driven Microfluidic Pump
+
+Precise control of flow rate has always been a critical process for most microfluidic applications and research experiments in various fields such as biochemistry, nanotechnology, and biotechnology. In this project, we conceptualized and developed a smart pressure driven pump capable of transporting microfluids at a stable minimum flow rate as low as 0, 1µl/min while providing a user friendly usage experience. With the achieved high-precision control of the liquid flow and the submillisecond response time, our DIY smart pump largely competes with its industrial alternatives at a fraction of the cost (250€ vs 1850€).
 
 ![alt-text](https://github.com/Yaccoub/smart_pump/blob/main/documentation/pictures/smart_pump.gif)
 
